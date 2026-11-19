@@ -1,0 +1,6 @@
+{
+  "name": "LUMORA",
+  "description": "Prerequisite-aware learning maps and shortest-path mastery for Classes 5th to 10th (CBSE & SSC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
